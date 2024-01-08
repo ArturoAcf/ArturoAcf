@@ -1,7 +1,7 @@
 <h1 align="center">🌗 Arturo Alonso 🌓</h1>
 <h3 align="center">Graduate in Computer Engineering at UGR</h3>
 
-- 📫 How to reach me **alonsoarturo@correo.ugr.es**
+- 📫 How to reach me: **alonsoarturo@correo.ugr.es**
 
 # 💻 Technolgies:
 ### Languages <br>
