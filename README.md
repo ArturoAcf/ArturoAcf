@@ -9,7 +9,7 @@
 
 ### IDEs and Text Editors <br>
 
-![jupyter notebook](https://img.shields.io/badge/jupyter%20notebook-%231A1918.svg?style=for-the-badge&logo=jupyter&logoColor=red) ![Spyder]([https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![visualstudiocode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![jupyter notebook](https://img.shields.io/badge/jupyter%20notebook-%231A1918.svg?style=for-the-badge&logo=jupyter&logoColor=red) ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![visualstudiocode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### DB <br>
 
